@@ -1,7 +1,3 @@
-Certainly! Here's a README.md file for your Fashion-MNIST-CNN repository:
-
----
-
 # Fashion-MNIST Convolutional Neural Network
 
 This repository contains code to train and evaluate a Convolutional Neural Network (CNN) on the Fashion-MNIST dataset using Keras.
@@ -72,5 +68,3 @@ Fashion-MNIST-CNN/
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize the README.md file with more information, explanations, images, or any other relevant details about your project.
